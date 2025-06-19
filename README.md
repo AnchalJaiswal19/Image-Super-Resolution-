@@ -39,7 +39,7 @@ The dataset includes image pairs of:
 
 | Low Resolution Image | Enhanced Image |
 |----------------------|----------------|
-| ![Low Res](https://github.com/AnchalJaiswal19/Image-Super-Resolution-/assets/AnchalJaiswal19/123456-low_res.jpg) | ![Enhanced](https://github.com/AnchalJaiswal19/Image-Super-Resolution-/assets/AnchalJaiswal19/789101-enhanced.jpg) |
+| ![Low Res](low_res.jpg) | ![Enhanced](enhanced.jpg) |
 
 
 ## 🏗️ Project Structure

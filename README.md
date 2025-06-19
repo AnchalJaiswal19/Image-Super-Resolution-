@@ -49,4 +49,4 @@ The dataset includes image pairs of:
 
 ## Author
 - A passionate tech enthusiast focusing on computer vision, image processing, and AI-based web development.
-📧 Email-anchaljaiswal4040@gmail.com
+- 📧 Email-anchaljaiswal4040@gmail.com

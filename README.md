@@ -42,5 +42,11 @@ The dataset includes image pairs of:
 | ![Low Res](low_res.jpg) | ![Enhanced](enhanced.jpg) |
 
 
-## 🏗️ Project Structure
+## 🏗️ Future Improvements
+- Integration of a pre-trained SRGAN or ESRGAN model.
+- Web interface to upload and enhance images directly.
+- Real-time video super resolution support.
 
+## Author
+- A passionate tech enthusiast focusing on computer vision, image processing, and AI-based web development.
+📧 Email-anchaljaiswal4040@gmail.com
